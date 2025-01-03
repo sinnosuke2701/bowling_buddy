@@ -1,2 +1,2 @@
-# bowling-buddy
-bowling-buddy
+# bowling_buddy
+bowling_buddy
